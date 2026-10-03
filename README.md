@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of wszdb/flarumaichat.** Not for installation: use [Packagist](https://packagist.org/packages/wszdb/flarumaichat) or the [upstream repository](https://github.com/wszdb/flarumaichat).
 
-**0** versions archived · Latest: [`v0.5`](https://github.com/flarchive/wszdb-flarumaichat/tree/archive/v0.5) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v0.5`](https://github.com/flarchive/wszdb-flarumaichat/tree/archive/v0.5) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.4` | 2025-10-06 | `^1.2.0` | [Browse](https://github.com/flarchive/wszdb-flarumaichat/tree/archive/v0.4) |
+| `v0.5` | 2025-10-09 | `^1.2.0` | [Browse](https://github.com/flarchive/wszdb-flarumaichat/tree/archive/v0.5) |
 
 Catalog entry: [packages/wszdb-flarumaichat.json](https://github.com/flarchive/archive-index/blob/main/packages/wszdb-flarumaichat.json)
 
